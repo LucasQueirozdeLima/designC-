@@ -1,0 +1,11 @@
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\bin\Debug\Csharp2705.exe.config
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\bin\Debug\Csharp2705.exe
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\bin\Debug\Csharp2705.pdb
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.Properties.Resources.resources
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.csproj.GenerateResource.cache
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.exe
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.pdb
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.Exemplo.resources
+C:\Users\Tecnico\Downloads\Csharp2705\Csharp2705\obj\Debug\Csharp2705.Cliente.resources
